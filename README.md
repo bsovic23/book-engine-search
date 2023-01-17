@@ -19,4 +19,3 @@ This project is a book search engine. It uses a graphql setup using queries and 
 
 *
 
-## Screenshots of Application
